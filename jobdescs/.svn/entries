@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="4"
+   name=""
+   committed-date="2005-08-02T00:37:24.371332Z"
+   url="svn://192.168.1.4:3690/misc/trunk/job_applier_markII/jobdescs"
+   last-author="greg"
+   kind="dir"
+   prop-time="2005-08-02T00:38:47.959907Z"
+   revision="28"/>
+</wc-entries>

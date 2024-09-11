@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="5"
+   name=""
+   committed-date="2005-08-10T03:40:29.380340Z"
+   url="svn://192.168.1.4:3690/misc/trunk/job_applier_markII/coverletters"
+   last-author="greg"
+   kind="dir"
+   uuid="d0a51137-b8f8-0310-9057-93d2b83081a8"
+   revision="28"/>
+<entry
+   committed-rev="5"
+   name="Sample.GIS.txt"
+   text-time="2005-08-02T00:54:39.468108Z"
+   committed-date="2005-08-10T03:40:29.380340Z"
+   checksum="c2c83ed0a230f9134a91c4a08931ac1b"
+   last-author="greg"
+   kind="file"/>
+<entry
+   committed-rev="5"
+   name="Sample.agile_prg.txt"
+   text-time="2005-08-02T00:54:29.443694Z"
+   committed-date="2005-08-10T03:40:29.380340Z"
+   checksum="ab0c85271cf10c998b19e05aa237a16c"
+   last-author="greg"
+   kind="file"/>
+</wc-entries>

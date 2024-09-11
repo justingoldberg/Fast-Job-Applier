@@ -1,0 +1,15 @@
+Dear <name>,
+
+I am writing in response to the <position> position listed on <url>.
+
+What excites me most about this job is the agile programming aspect.  I have been reading up on Extreme Programming and iterative/agile programming methodologies for some time now and have been trying to employ the techniques in my own personal software projects however I am very interested in working at a company that uses these techniques in a production environment.
+
+For experience, I have two years of software development experience from my previous position where I worked with all aspects of the software life cycle.  This included tasks all the way from working with clients to develop functional requirements to creating specifications to coordinating product support and maintenance.  I am trained in a variety of langauges including C++, Python, and Java.
+
+My attached resume illustrates most of the skills and experience I have and I can additionally provide plenty of references that will attest to the fact that I am an extremely fast learner.
+
+Please contact me to discuss this oppurtunity further.  You can reach me at this email address or call me on my home phone at (443) 800-4700.
+
+Sincerely,
+
+Jon Nerdo

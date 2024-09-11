@@ -1,0 +1,11 @@
+Dear <name>,
+
+I am writing in response to the <position> position listed at <url>.
+
+I am currently earning an MS in Computer Science and I consider myself a very good programmer.  I am attaching my resume which further details my skills and experience.  I have also always been extremely interested in geographical information systems.  For example, when I bought my first GPS device two years ago I seriously considered writing my own simple GIS application to work with it.  (I wanted something that would chart my speed over time which I couldn't find in free, existing software.)  Ever since then I've been wanting to break into the GIS field but have never been sure how to get started.  Although I don't have experience with most of the GIS technologies you listed, I am very enthusiastic about the field and am a very fast learner.  I hope you will still consider me for this position.  Even if you don't feel I am a good fit for this job, I would very much appreciate any advice on how to get myself started in the GIS field.
+
+You can contact me to discuss this position anytime.  You can reach me at this email address or call me on my home phone at (443) 800-4700.
+
+Thanks,
+
+Jon Nerdo

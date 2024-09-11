@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="3"
+   name=""
+   committed-date="2005-08-01T22:21:16.769321Z"
+   url="svn://192.168.1.4:3690/misc/trunk/job_applier_markII/resumes"
+   last-author="greg"
+   kind="dir"
+   revision="28"/>
+<entry
+   committed-rev="3"
+   name="SampleResume.doc"
+   text-time="2005-08-01T20:44:06.221000Z"
+   committed-date="2005-08-01T22:21:16.769321Z"
+   checksum="e73286bab06c62ac05cf9fd0204b0ca4"
+   last-author="greg"
+   kind="file"
+   prop-time="2005-08-01T22:22:45.562956Z"/>
+</wc-entries>
